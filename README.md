@@ -30,8 +30,11 @@ Byte to BCD Conversion: Subroutine to convert a byte in R2 to 3 BCD bytes, store
 **Hardware Notes**
 
 Microcontroller: MCS-51.
+
 Components: 7-segment LEDs, ADC (4-bit), push button (PB1), 12 MHz crystal.
+
 Pin Configurations: Refer to the provided circuit diagrams for LED, ADC, and button connections.
+
 <img width="938" height="626" alt="image" src="https://github.com/user-attachments/assets/0b10d752-8ade-4363-90d7-eebbefcaeea9" />
 
 
